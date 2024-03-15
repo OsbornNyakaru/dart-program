@@ -4,6 +4,9 @@
 
 This repository contains a Dart program that demonstrates various concepts of Object-Oriented Programming (OOP) in Dart, including classes, inheritance, interfaces, file handling, and method usage. The program is designed to fulfill the requirements of a technical assignment challenge aimed at assessing the understanding of OOP principles in Dart.
 
+![Why should you learn the Dart programming language _](https://github.com/OsbornNyakaru/dart-program/assets/110415101/f720a2ab-8b47-43da-813a-f0e789352885) 
+
+
 ## Features
 
 The Dart program in this repository includes the following features:
@@ -49,7 +52,7 @@ To run the Dart program locally, follow these steps:
 The repository has the following structure:
 
 ```
-dart-oop-assignment/
+dart-program/
 │
 ├── main.dart        # Main Dart program file
 ├── person.txt       # Sample data file for initializing Person instance
