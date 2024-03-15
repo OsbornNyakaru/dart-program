@@ -27,7 +27,7 @@ To run the Dart program locally, follow these steps:
 2. Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/example/dart-oop-assignment.git
+   git clone https://github.com/OsbornNyakaru/dart-program.git
    ```
 
 3. Navigate to the cloned repository directory:
